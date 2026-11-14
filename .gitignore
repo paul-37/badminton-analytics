@@ -1,0 +1,21 @@
+
+# Raw datasets
+data/
+raw/
+ms.csv
+
+# Power BI files with imported data
+*.pbix
+*.pbix.bak
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Database backups and original workflow
+sql/archive/
+sql/02_original_sql_workflow.sql
+*.backup
+*.dump
