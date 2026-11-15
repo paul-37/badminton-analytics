@@ -223,6 +223,6 @@ badminton-analytics/
 
 ## Project status
 
-**Core analytics and dashboard implementation: complete.** The current remaining publication tasks are source attribution, final repository-file checks, review of PBIX/data sharing permissions, and an independent reproducibility test of the SQL workflow.
+**Core SQL analytics and the five-page Power BI dashboard are complete.** The public GitHub portfolio includes SQL scripts, technical documentation, DAX measures, and dashboard screenshots. Raw data and the PBIX file are not publicly distributed pending verification of redistribution permissions. An independent end-to-end rebuild of the SQL workflow has not yet been completed.
 
 
