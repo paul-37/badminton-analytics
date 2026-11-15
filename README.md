@@ -165,7 +165,7 @@ For **Viktor AXELSEN vs Anthony Sinisuka GINTING**, the project records **16 hea
 - The `v_match_quality` view classified **10,245 score records as complete** and **199 as incomplete**; incomplete score records remain part of the match dataset but may be unsuitable for game-score-derived metrics.
 - The supplied SQL scripts contain the **database-stage transformations**, but the complete upstream manual CSV/Excel preparation process has **not yet been fully converted into a reproducible script**.
 - The historical scripts were extracted and organized from a DBeaver working file. The organized build scripts were **reviewed statically, not executed end-to-end on a fresh PostgreSQL instance**.
-- The source dataset's **original URL and reuse/license terms must be added and verified before public release**. Do not upload data or a PBIX containing data unless redistribution rights allow it.
+- **Dataset source and attribution are documented below.** The raw dataset and data-containing Power BI file are excluded from the public repository because redistribution permissions have not been verified.
 
 ## Repository structure
 
